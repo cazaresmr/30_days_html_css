@@ -1,0 +1,70 @@
+/* *** =body *** */
+body {
+  background-color: #ccc;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* *** =container *** */
+.container-12 {
+  width: 80%;
+  margin: auto;
+}
+/* *** =header *** */
+header {
+  box-sizing: border-box;
+  display: flex;
+  padding: 15px;
+}
+/* *** =h1 *** */
+h1 {
+  font-size: 14px;
+  margin: 0 400px 0 0;
+  font-weight: 900;
+} 
+/* *** =nave ul *** */
+nav ul {
+  width: 430px;
+    }  
+    /* *** =nav li *** */
+nav li {
+display: inline;
+margin-left: 0;
+margin-right: 10px;
+}
+/* *** =a *** */
+a {
+  text-decoration: none;
+}
+/* *** =banner *** */
+.banner {
+    background: url(city-bg.jpg) no-repeat;
+    width: 695px;
+    height: 231px;
+  }
+/* *** =pre *** */
+  pre {
+    margin-top: 160px;
+    font-style: italic;
+  }
+  /* *** =box *** */
+  .box  {
+    background-color: #bbb;
+    width: 150px;
+    height: 231px;
+  }
+/* *** =tbd *** */
+  #tbd {
+    font-size: 24px;
+    text-align: center;
+  }
+main {
+  display: flex;
+  padding: 15px;
+}
+.hero {
+  height: 250px;
+  width: 100%;
+}
+footer {
+  padding: 15px;
+}
